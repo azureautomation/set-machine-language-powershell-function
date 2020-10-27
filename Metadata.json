@@ -1,0 +1,20 @@
+{
+    "Author": "paperclips",
+    "ContentSize": 7810,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/set-machine-language-powershell-function/master/Set-Language.ps1",
+    "DownloadCount": 653,
+    "Id": "Set-machine-language-e3f9772c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 285,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-11-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Call this function to configure a relevant language pack on a machine.Specify a region using the parameter [-CultureCode] to set the system to the specified regional language pack.The function will also copy the selected language to the welcome screen and new user accounts. (Requ",
+    "Title": "Set machine language - Powershell - Function",
+    "UpdatedDate": "2018-11-6T00:00:00",
+    "Url": "https://github.com/azureautomation/set-machine-language-powershell-function",
+    "UserTags": "Powershell, Automation, Language packs"
+}
